@@ -12,8 +12,8 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "oceanEcho", // Usually your GitHub org/user name.
-  projectName: "fresh-scrolls", // Usually your repo name.
+  organizationName: "oceanEcho",
+  projectName: "fresh-scrolls",
 
   presets: [
     [
@@ -22,7 +22,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
           editUrl: "https://github.com/oceanEcho/fresh-scrolls/blob/master",
           routeBasePath: "/",
         },
