@@ -7,6 +7,17 @@ slug: /
 
 ## Forent Paron
 
+| Left-Aligned  | Center Aligned  | Right Aligned |
+|:------------- |:---------------:| -------------:|
+| col 3 is      | some wordy text |     **$1600** |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+
+
+[image1]: //placehold.it/250x100
+[image2]: //placehold.it/200x100
+[image3]: //placehold.it/150x100
+
 Lorem markdownum sequentia fuit est, in terrore exercita calathosque crinis
 propinquae fletus domo argenteus coeperunt _placuit_? Nostris praetemptatque
 passura, ulmi tingui medium habitus, sua est cessere color vulnera, tuum erexit
